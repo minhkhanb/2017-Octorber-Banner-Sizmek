@@ -1,57 +1,44 @@
 .gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-1mah-anim-x {
   --gwd-motion-path: {
     "tangentFollowing": false, "sections": [ {
-      "controlPoints": ["-170.24px", "-116.26px", "-184.87px", "-61.46px", "-139.34px", "-86.66px", "-150px", "8px"], "startTimeMs": 0, "endTimeMs": 847.974, "easing": "linear"
-    }
-    , {
-      "controlPoints": ["-150px", "8px", "-150.13px", "9.12px", "-149.94px", "10.25px", "-149.91px", "11.38px"], "startTimeMs": 847.974, "endTimeMs": 896, "easing": "linear"
+      "controlPoints": ["-170.24px", "-116.26px", "-184.87px", "-61.46px", "-157.59px", "-67.39px", "-168.25px", "27.27px"], "startTimeMs": 0, "endTimeMs": 1515.97, "easing": "linear"
     }
     ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
   }
   ;
-  animation:gwd-motion-path-1mah-keys-x 0.896s linear 0s 1 normal forwards;
+  animation:gwd-motion-path-1mah-keys-x 1.51597s linear 0s 1 normal forwards;
   transform:translate3d(-170.24px, 0px, 0px);
 }
 @keyframes gwd-motion-path-1mah-keys-x {
   0% {
     transform: translate3d(-170.24px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.4072, -0.7056, 0.3035, 1.5402);
-  }
-  94.64% {
-    transform: translate3d(-150px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.3319, -6.955, 0.403, 6.0132);
   }
   100% {
-    transform: translate3d(-149.91px, 0px, 0px);
+    transform: translate3d(-168.25px, 0px, 0px);
   }
 }
 .gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-1mah-anim-y {
-  animation: gwd-motion-path-1mah-keys-y 0.896s linear 0s 1 normal forwards;
+  animation: gwd-motion-path-1mah-keys-y 1.51597s linear 0s 1 normal forwards;
   transform: translate3d(0px, -116.26px, 0px);
 }
 @keyframes gwd-motion-path-1mah-keys-y {
   0% {
     transform: translate3d(0px, -116.26px, 0px);
-    animation-timing-function: cubic-bezier(0.3167, 0.3567, 0.6853, 0.6425);
-  }
-  73.35% {
-    transform: translate3d(0px, -21.2px, 0px);
-  }
-  94.64% {
-    transform: translate3d(0px, 8px, 0px);
   }
   100% {
-    transform: translate3d(0px, 11.38px, 0px);
+    transform: translate3d(0px, 27.27px, 0px);
   }
 }
 .gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-143w-anim-x {
   --gwd-motion-path: {
     "tangentFollowing": false, "sections": [ {
-      "controlPoints": ["0px", "0px", "-33.93px", "56.04px", "21.36px", "66.61px", "9.16px", "133.28px"], "startTimeMs": 0, "endTimeMs": 894, "easing": "linear"
+      "controlPoints": ["0px", "0px", "-33.93px", "56.04px", "18.95px", "98.6px", "6.75px", "165.27px"], "startTimeMs": 0, "endTimeMs": 1562, "easing": "linear"
     }
     ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
   }
   ;
-  animation:gwd-motion-path-143w-keys-x 0.894s linear 0s 1 normal forwards;
+  animation:gwd-motion-path-143w-keys-x 1.562s linear 0s 1 normal forwards;
   transform:translate3d(0px, 0px, 0px);
 }
 @keyframes gwd-motion-path-143w-keys-x {
@@ -59,78 +46,79 @@
     transform: translate3d(0px, 0px, 0px);
   }
   5% {
-    transform: translate3d(-3.42px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3842, -2.0513, 0.5044, 1.8583);
+    transform: translate3d(-4.05px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.3165, -2.2502, 0.5849, 1.9372);
   }
   100% {
-    transform: translate3d(9.16px, 0px, 0px);
+    transform: translate3d(6.75px, 0px, 0px);
   }
 }
 .gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-143w-anim-y {
-  animation: gwd-motion-path-143w-keys-y 0.894s linear 0s 1 normal forwards;
+  animation: gwd-motion-path-143w-keys-y 1.562s linear 0s 1 normal forwards;
   transform: translate3d(0px, 0px, 0px);
 }
 @keyframes gwd-motion-path-143w-keys-y {
   0% {
     transform: translate3d(0px, 0px, 0px);
   }
-  7.5% {
-    transform: translate3d(0px, 9.19px, 0px);
-    animation-timing-function: cubic-bezier(0.3297, 0.3372, 0.6767, 0.6554);
+  5% {
+    transform: translate3d(0px, 7.46px, 0px);
+    animation-timing-function: cubic-bezier(0.3341, 0.3306, 0.6705, 0.6628);
   }
   100% {
-    transform: translate3d(0px, 133.28px, 0px);
+    transform: translate3d(0px, 165.27px, 0px);
   }
 }
 .gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-1wl7-anim-x {
   --gwd-motion-path: {
     "tangentFollowing": false, "sections": [ {
-      "controlPoints": ["0px", "0px", "38.39px", "43.79px", "-40.47px", "82px", "-8px", "126px"], "startTimeMs": 0, "endTimeMs": 894, "easing": "linear"
+      "controlPoints": ["0px", "0px", "38.39px", "43.79px", "-18.72px", "116.27px", "13.75px", "160.27px"], "startTimeMs": 0, "endTimeMs": 1562, "easing": "linear"
     }
     ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
   }
   ;
-  animation:gwd-motion-path-1wl7-keys-x 0.894s linear 0s 1 normal forwards;
+  animation:gwd-motion-path-1wl7-keys-x 1.562s linear 0s 1 normal forwards;
   transform:translate3d(0px, 0px, 0px);
 }
 @keyframes gwd-motion-path-1wl7-keys-x {
   0% {
     transform: translate3d(0px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.3092, 5.928, 0.3445, 4.1495);
   }
-  2.5% {
-    transform: translate3d(2.16px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3531, -3.2081, 0.6424, 4.068);
+  72.5% {
+    transform: translate3d(3.56px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.5638, -0.181, 0.8382, 0.5988);
   }
   100% {
-    transform: translate3d(-8px, 0px, 0px);
+    transform: translate3d(13.75px, 0px, 0px);
   }
 }
 .gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-1wl7-anim-y {
-  animation: gwd-motion-path-1wl7-keys-y 0.894s linear 0s 1 normal forwards;
+  animation: gwd-motion-path-1wl7-keys-y 1.562s linear 0s 1 normal forwards;
   transform: translate3d(0px, 0px, 0px);
 }
 @keyframes gwd-motion-path-1wl7-keys-y {
   0% {
     transform: translate3d(0px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3482, 0.315, 0.6476, 0.6834);
+    animation-timing-function: cubic-bezier(0.3644, 0.2997, 0.6793, 0.6552);
   }
-  62.5% {
-    transform: translate3d(0px, 77.88px, 0px);
-    animation-timing-function: cubic-bezier(0.3459, 0.3214, 0.6433, 0.6916);
+  25% {
+    transform: translate3d(0px, 38.34px, 0px);
+    animation-timing-function: cubic-bezier(0.3335, 0.3317, 0.6552, 0.6841);
   }
   100% {
-    transform: translate3d(0px, 126px, 0px);
+    transform: translate3d(0px, 160.27px, 0px);
   }
 }
 .gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-kvr1-anim-x {
   --gwd-motion-path: {
     "tangentFollowing": false, "sections": [ {
-      "controlPoints": ["0px", "0px", "-21.87px", "18.11px", "-0.8px", "36.28px", "-39.75px", "52.58px", "-39.75px", "52.58px", "-67.94px", "64.38px", "-37.17px", "112.25px", "-15px", "151px"], "startTimeMs": 0, "endTimeMs": 894, "easing": "linear"
+      "controlPoints": ["0px", "0px", "-21.87px", "18.11px", "-0.8px", "36.28px", "-39.75px", "52.58px", "-39.75px", "52.58px", "-67.94px", "64.38px", "-9.42px", "120.52px", "12.75px", "159.27px"], "startTimeMs": 0, "endTimeMs": 1562, "easing": "linear"
     }
     ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
   }
   ;
-  animation:gwd-motion-path-kvr1-keys-x 0.894s linear 0s 1 normal forwards;
+  animation:gwd-motion-path-kvr1-keys-x 1.562s linear 0s 1 normal forwards;
   transform:translate3d(0px, 0px, 0px);
 }
 @keyframes gwd-motion-path-kvr1-keys-x {
@@ -138,23 +126,24 @@
     transform: translate3d(0px, 0px, 0px);
     animation-timing-function: cubic-bezier(0.2922, 0.3676, 0.6047, 0.7391);
   }
-  8.61% {
+  7.89% {
     transform: translate3d(-9.41px, 0px, 0px);
     animation-timing-function: cubic-bezier(0.5628, 0.2162, 0.6906, 0.5116);
   }
-  38.26% {
+  35.06% {
     transform: translate3d(-39.75px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.184, 0.3671, 0.4228, 1.4074);
   }
-  41.35% {
-    transform: translate3d(-44.57px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.1899, -0.7757, 0.8568, 0.8416);
+  44.8% {
+    transform: translate3d(-46.63px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.3793, 0.2528, 0.6544, 0.6922);
   }
   100% {
-    transform: translate3d(-15px, 0px, 0px);
+    transform: translate3d(12.75px, 0px, 0px);
   }
 }
 .gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-kvr1-anim-y {
-  animation: gwd-motion-path-kvr1-keys-y 0.894s linear 0s 1 normal forwards;
+  animation: gwd-motion-path-kvr1-keys-y 1.562s linear 0s 1 normal forwards;
   transform: translate3d(0px, 0px, 0px);
 }
 @keyframes gwd-motion-path-kvr1-keys-y {
@@ -162,506 +151,177 @@
     transform: translate3d(0px, 0px, 0px);
     animation-timing-function: cubic-bezier(0.3647, 0.3101, 0.5452, 0.7906);
   }
-  38.26% {
+  35.06% {
     transform: translate3d(0px, 52.58px, 0px);
-    animation-timing-function: cubic-bezier(0.4049, 0.2517, 0.7217, 0.6187);
   }
-  44.43% {
-    transform: translate3d(0px, 59.49px, 0px);
-    animation-timing-function: cubic-bezier(0.319, 0.3452, 0.655, 0.6762);
+  38.31% {
+    transform: translate3d(0px, 56.24px, 0px);
+    animation-timing-function: cubic-bezier(0.3047, 0.3564, 0.6694, 0.6624);
   }
   100% {
-    transform: translate3d(0px, 151px, 0px);
+    transform: translate3d(0px, 159.27px, 0px);
   }
 }
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-pq49-anim-x {
+.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-dgil-anim-x {
   --gwd-motion-path: {
     "tangentFollowing": false, "sections": [ {
-      "controlPoints": ["-170.24px", "-116.26px", "-143.41px", "-72.02px", "-234.46px", "-58.2px", "-134.46px", "14.97px"], "startTimeMs": 297, "endTimeMs": 1190, "easing": "linear"
+      "controlPoints": ["0px", "0px", "-21.87px", "18.11px", "-0.8px", "36.28px", "-39.75px", "52.58px", "-39.75px", "52.58px", "-67.94px", "64.38px", "-82.42px", "128.52px", "-60.25px", "167.27px"], "startTimeMs": 697, "endTimeMs": 2259, "easing": "linear"
     }
     ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
   }
   ;
-  animation:gwd-motion-path-pq49-keys-x 0.893s linear 0.297s 1 normal forwards;
-  transform:translate3d(-170.24px, 0px, 0px);
-}
-@keyframes gwd-motion-path-pq49-keys-x {
-  0% {
-    transform: translate3d(-170.24px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3763, -2.6907, 0.5829, 3.6348);
-  }
-  60% {
-    transform: translate3d(-177.71px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3799, 0.2722, 0.6896, 0.6526);
-  }
-  100% {
-    transform: translate3d(-134.46px, 0px, 0px);
-  }
-}
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-pq49-anim-y {
-  animation: gwd-motion-path-pq49-keys-y 0.893s linear 0.297s 1 normal forwards;
-  transform: translate3d(0px, -116.26px, 0px);
-}
-@keyframes gwd-motion-path-pq49-keys-y {
-  0% {
-    transform: translate3d(0px, -116.26px, 0px);
-    animation-timing-function: cubic-bezier(0.3351, 0.3329, 0.6509, 0.6787);
-  }
-  37.5% {
-    transform: translate3d(0px, -62.27px, 0px);
-    animation-timing-function: cubic-bezier(0.2977, 0.3811, 0.6, 0.7182);
-  }
-  100% {
-    transform: translate3d(0px, 14.97px, 0px);
-  }
-}
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-78i4-anim-x {
-  --gwd-motion-path: {
-    "tangentFollowing": false, "sections": [ {
-      "controlPoints": ["0px", "0px", "12.41px", "55.23px", "-48.56px", "94.25px", "-10.35px", "150.35px"], "startTimeMs": 297, "endTimeMs": 1187, "easing": "linear"
-    }
-    ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
-  }
-  ;
-  animation:gwd-motion-path-78i4-keys-x 0.89s linear 0.297s 1 normal forwards;
+  animation:gwd-motion-path-dgil-keys-x 1.562s linear 0.697s 1 normal forwards;
   transform:translate3d(0px, 0px, 0px);
 }
-@keyframes gwd-motion-path-78i4-keys-x {
-  0% {
-    transform: translate3d(0px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3811, -0.7602, 0.6327, 3.0084);
-  }
-  95% {
-    transform: translate3d(-14.48px, 0px, 0px);
-  }
-  100% {
-    transform: translate3d(-10.35px, 0px, 0px);
-  }
-}
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-78i4-anim-y {
-  animation: gwd-motion-path-78i4-keys-y 0.89s linear 0.297s 1 normal forwards;
-  transform: translate3d(0px, 0px, 0px);
-}
-@keyframes gwd-motion-path-78i4-keys-y {
-  0% {
-    transform: translate3d(0px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3262, 0.3412, 0.6721, 0.6623);
-  }
-  90% {
-    transform: translate3d(0px, 136.64px, 0px);
-  }
-  100% {
-    transform: translate3d(0px, 150.35px, 0px);
-  }
-}
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-vrup-anim-x {
-  --gwd-motion-path: {
-    "tangentFollowing": false, "sections": [ {
-      "controlPoints": ["0px", "0px", "-20.96px", "45.41px", "57.09px", "30.78px", "18.88px", "137.29px"], "startTimeMs": 295, "endTimeMs": 1191, "easing": "linear"
-    }
-    ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
-  }
-  ;
-  animation:gwd-motion-path-vrup-keys-x 0.896s linear 0.295s 1 normal forwards;
-  transform:translate3d(0px, 0px, 0px);
-}
-@keyframes gwd-motion-path-vrup-keys-x {
-  0% {
-    transform: translate3d(0px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.319, -1.0138, 0.3007, 2.9988);
-  }
-  100% {
-    transform: translate3d(18.88px, 0px, 0px);
-  }
-}
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-vrup-anim-y {
-  animation: gwd-motion-path-vrup-keys-y 0.896s linear 0.295s 1 normal forwards;
-  transform: translate3d(0px, 0px, 0px);
-}
-@keyframes gwd-motion-path-vrup-keys-y {
-  0% {
-    transform: translate3d(0px, 0px, 0px);
-  }
-  20% {
-    transform: translate3d(0px, 28.18px, 0px);
-    animation-timing-function: cubic-bezier(0.3792, 0.2914, 0.6635, 0.6663);
-  }
-  100% {
-    transform: translate3d(0px, 137.29px, 0px);
-  }
-}
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-10s9-anim-x {
-  --gwd-motion-path: {
-    "tangentFollowing": false, "sections": [ {
-      "controlPoints": ["0px", "0px", "0.01px", "108.63px", "-76.41px", "64.73px", "-26.82px", "139.53px"], "startTimeMs": 293, "endTimeMs": 1193, "easing": "linear"
-    }
-    ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
-  }
-  ;
-  animation:gwd-motion-path-10s9-keys-x 0.9s linear 0.293s 1 normal forwards;
-  transform:translate3d(0px, 0px, 0px);
-}
-@keyframes gwd-motion-path-10s9-keys-x {
-  0% {
-    transform: translate3d(0px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.589, -0.0004, 0.7062, 0.6429);
-  }
-  70% {
-    transform: translate3d(-42.8px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3102, -0.267, 0.8519, 0.8093);
-  }
-  100% {
-    transform: translate3d(-26.82px, 0px, 0px);
-  }
-}
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-10s9-anim-y {
-  animation: gwd-motion-path-10s9-keys-y 0.9s linear 0.293s 1 normal forwards;
-  transform: translate3d(0px, 0px, 0px);
-}
-@keyframes gwd-motion-path-10s9-keys-y {
-  0% {
-    transform: translate3d(0px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3163, 0.3571, 0.6108, 0.7125);
-  }
-  65% {
-    transform: translate3d(0px, 89.75px, 0px);
-    animation-timing-function: cubic-bezier(0.3354, 0.3299, 0.6416, 0.6871);
-  }
-  100% {
-    transform: translate3d(0px, 139.53px, 0px);
-  }
-}
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-whez-anim-x {
-  --gwd-motion-path: {
-    "tangentFollowing": false, "sections": [ {
-      "controlPoints": ["0px", "0px", "-21.87px", "18.11px", "-0.8px", "36.28px", "-39.75px", "52.58px", "-39.75px", "52.58px", "-67.94px", "64.38px", "-37.17px", "112.25px", "-15px", "151px"], "startTimeMs": 1000, "endTimeMs": 1894, "easing": "linear"
-    }
-    ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
-  }
-  ;
-  animation:gwd-motion-path-whez-keys-x 0.894s linear 1s 1 normal forwards;
-  transform:translate3d(0px, 0px, 0px);
-}
-@keyframes gwd-motion-path-whez-keys-x {
+@keyframes gwd-motion-path-dgil-keys-x {
   0% {
     transform: translate3d(0px, 0px, 0px);
     animation-timing-function: cubic-bezier(0.2922, 0.3676, 0.6047, 0.7391);
   }
-  8.61% {
+  7.94% {
     transform: translate3d(-9.41px, 0px, 0px);
     animation-timing-function: cubic-bezier(0.5628, 0.2162, 0.6906, 0.5116);
   }
-  38.26% {
+  35.28% {
     transform: translate3d(-39.75px, 0px, 0px);
-  }
-  41.35% {
-    transform: translate3d(-44.57px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.1899, -0.7757, 0.8568, 0.8416);
+    animation-timing-function: cubic-bezier(0.1013, 0.6998, 0.5388, 2.3733);
   }
   100% {
-    transform: translate3d(-15px, 0px, 0px);
+    transform: translate3d(-60.25px, 0px, 0px);
   }
 }
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-whez-anim-y {
-  animation: gwd-motion-path-whez-keys-y 0.894s linear 1s 1 normal forwards;
+.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-dgil-anim-y {
+  animation: gwd-motion-path-dgil-keys-y 1.562s linear 0.697s 1 normal forwards;
   transform: translate3d(0px, 0px, 0px);
 }
-@keyframes gwd-motion-path-whez-keys-y {
+@keyframes gwd-motion-path-dgil-keys-y {
   0% {
     transform: translate3d(0px, 0px, 0px);
     animation-timing-function: cubic-bezier(0.3647, 0.3101, 0.5452, 0.7906);
   }
-  38.26% {
+  35.28% {
     transform: translate3d(0px, 52.58px, 0px);
-    animation-timing-function: cubic-bezier(0.4049, 0.2517, 0.7217, 0.6187);
   }
-  44.43% {
-    transform: translate3d(0px, 59.49px, 0px);
-    animation-timing-function: cubic-bezier(0.319, 0.3452, 0.655, 0.6762);
+  38.51% {
+    transform: translate3d(0px, 55.67px, 0px);
+    animation-timing-function: cubic-bezier(0.3724, 0.2786, 0.6579, 0.6813);
   }
   100% {
-    transform: translate3d(0px, 151px, 0px);
+    transform: translate3d(0px, 167.27px, 0px);
   }
 }
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-dha0-anim-x {
+.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-nqio-anim-x {
   --gwd-motion-path: {
     "tangentFollowing": false, "sections": [ {
-      "controlPoints": ["0px", "0px", "38.39px", "43.79px", "-40.47px", "82px", "-8px", "126px"], "startTimeMs": 1000, "endTimeMs": 1894, "easing": "linear"
+      "controlPoints": ["0px", "0px", "38.39px", "43.79px", "-0.72px", "102.27px", "31.75px", "146.27px"], "startTimeMs": 697, "endTimeMs": 2259, "easing": "linear"
     }
     ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
   }
   ;
-  animation:gwd-motion-path-dha0-keys-x 0.894s linear 1s 1 normal forwards;
+  animation:gwd-motion-path-nqio-keys-x 1.562s linear 0.697s 1 normal forwards;
   transform:translate3d(0px, 0px, 0px);
 }
-@keyframes gwd-motion-path-dha0-keys-x {
+@keyframes gwd-motion-path-nqio-keys-x {
   0% {
     transform: translate3d(0px, 0px, 0px);
-  }
-  2.5% {
-    transform: translate3d(2.16px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3531, -3.2081, 0.6424, 4.068);
+    animation-timing-function: cubic-bezier(0.3242, 1.1671, 0.6848, -0.0015);
   }
   100% {
-    transform: translate3d(-8px, 0px, 0px);
+    transform: translate3d(31.75px, 0px, 0px);
   }
 }
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-dha0-anim-y {
-  animation: gwd-motion-path-dha0-keys-y 0.894s linear 1s 1 normal forwards;
+.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-nqio-anim-y {
+  animation: gwd-motion-path-nqio-keys-y 1.562s linear 0.697s 1 normal forwards;
   transform: translate3d(0px, 0px, 0px);
 }
-@keyframes gwd-motion-path-dha0-keys-y {
+@keyframes gwd-motion-path-nqio-keys-y {
   0% {
     transform: translate3d(0px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3482, 0.315, 0.6476, 0.6834);
-  }
-  62.5% {
-    transform: translate3d(0px, 77.88px, 0px);
-    animation-timing-function: cubic-bezier(0.3459, 0.3214, 0.6433, 0.6916);
+    animation-timing-function: cubic-bezier(0.3569, 0.3039, 0.6498, 0.6868);
   }
   100% {
-    transform: translate3d(0px, 126px, 0px);
+    transform: translate3d(0px, 146.27px, 0px);
   }
 }
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-1a3p-anim-x {
+.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-1mw0-anim-x {
   --gwd-motion-path: {
     "tangentFollowing": false, "sections": [ {
-      "controlPoints": ["0px", "0px", "-33.93px", "56.04px", "21.36px", "66.61px", "9.16px", "133.28px"], "startTimeMs": 1000, "endTimeMs": 1894, "easing": "linear"
+      "controlPoints": ["0px", "0px", "-33.93px", "56.04px", "64.34px", "48.26px", "50.75px", "146.45px"], "startTimeMs": 697, "endTimeMs": 2259, "easing": "linear"
     }
     ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
   }
   ;
-  animation:gwd-motion-path-1a3p-keys-x 0.894s linear 1s 1 normal forwards;
+  animation:gwd-motion-path-1mw0-keys-x 1.562s linear 0.697s 1 normal forwards;
   transform:translate3d(0px, 0px, 0px);
 }
-@keyframes gwd-motion-path-1a3p-keys-x {
+@keyframes gwd-motion-path-1mw0-keys-x {
   0% {
     transform: translate3d(0px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.1329, 0.2688, 0.579, 1.5451);
   }
-  5% {
-    transform: translate3d(-3.42px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3842, -2.0513, 0.5044, 1.8583);
+  17.5% {
+    transform: translate3d(-6.32px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.2873, 0.249, 0.4915, 1.1774);
   }
   100% {
-    transform: translate3d(9.16px, 0px, 0px);
+    transform: translate3d(50.75px, 0px, 0px);
   }
 }
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-1a3p-anim-y {
-  animation: gwd-motion-path-1a3p-keys-y 0.894s linear 1s 1 normal forwards;
+.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-1mw0-anim-y {
+  animation: gwd-motion-path-1mw0-keys-y 1.562s linear 0.697s 1 normal forwards;
   transform: translate3d(0px, 0px, 0px);
 }
-@keyframes gwd-motion-path-1a3p-keys-y {
+@keyframes gwd-motion-path-1mw0-keys-y {
   0% {
     transform: translate3d(0px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.349, 0.3208, 0.6215, 0.7111);
   }
-  7.5% {
-    transform: translate3d(0px, 9.19px, 0px);
-    animation-timing-function: cubic-bezier(0.3297, 0.3372, 0.6767, 0.6554);
+  30% {
+    transform: translate3d(0px, 45.25px, 0px);
+    animation-timing-function: cubic-bezier(0.3942, 0.2866, 0.6882, 0.633);
   }
   100% {
-    transform: translate3d(0px, 133.28px, 0px);
+    transform: translate3d(0px, 146.45px, 0px);
   }
 }
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-1urz-anim-x {
+.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-q12f-anim-x {
   --gwd-motion-path: {
     "tangentFollowing": false, "sections": [ {
-      "controlPoints": ["-170.24px", "-116.26px", "-184.87px", "-61.46px", "-139.34px", "-86.66px", "-150px", "8px"], "startTimeMs": 1000, "endTimeMs": 1847.97, "easing": "linear"
-    }
-    , {
-      "controlPoints": ["-150px", "8px", "-150.13px", "9.12px", "-149.94px", "10.25px", "-149.91px", "11.38px"], "startTimeMs": 1847.97, "endTimeMs": 2398, "easing": "linear"
+      "controlPoints": ["-154.25px", "-126.91px", "-207.25px", "-90.91px", "-125.25px", "-79.91px", "-163.25px", "31.09px"], "startTimeMs": 697, "endTimeMs": 2212.97, "easing": "linear"
     }
     ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
   }
   ;
-  animation:gwd-motion-path-1urz-keys-x 1.398s linear 1s 1 normal forwards;
-  transform:translate3d(-170.24px, 0px, 0px);
+  animation:gwd-motion-path-q12f-keys-x 1.51597s linear 0.697s 1 normal forwards;
+  transform:translate3d(-154.25px, 0px, 0px);
 }
-@keyframes gwd-motion-path-1urz-keys-x {
+@keyframes gwd-motion-path-q12f-keys-x {
   0% {
-    transform: translate3d(-170.24px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.4072, -0.7056, 0.3035, 1.5402);
+    transform: translate3d(-154.25px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.1819, 0.2546, 0.5801, 1.2378);
   }
-  60.66% {
-    transform: translate3d(-150px, 0px, 0px);
+  22.5% {
+    transform: translate3d(-172.05px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.2865, 1.3065, 0.4613, 3.5849);
   }
   100% {
-    transform: translate3d(-149.91px, 0px, 0px);
+    transform: translate3d(-163.25px, 0px, 0px);
   }
 }
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-1urz-anim-y {
-  animation: gwd-motion-path-1urz-keys-y 1.398s linear 1s 1 normal forwards;
-  transform: translate3d(0px, -116.26px, 0px);
+.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-q12f-anim-y {
+  animation: gwd-motion-path-q12f-keys-y 1.51597s linear 0.697s 1 normal forwards;
+  transform: translate3d(0px, -126.91px, 0px);
 }
-@keyframes gwd-motion-path-1urz-keys-y {
+@keyframes gwd-motion-path-q12f-keys-y {
   0% {
-    transform: translate3d(0px, -116.26px, 0px);
-    animation-timing-function: cubic-bezier(0.3167, 0.3567, 0.6853, 0.6425);
+    transform: translate3d(0px, -126.91px, 0px);
   }
-  47.02% {
-    transform: translate3d(0px, -21.2px, 0px);
-  }
-  60.66% {
-    transform: translate3d(0px, 8px, 0px);
+  10% {
+    transform: translate3d(0px, -115.88px, 0px);
+    animation-timing-function: cubic-bezier(0.3451, 0.3235, 0.6664, 0.6666);
   }
   100% {
-    transform: translate3d(0px, 11.38px, 0px);
-  }
-}
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-1nk8-anim-x {
-  --gwd-motion-path: {
-    "tangentFollowing": false, "sections": [ {
-      "controlPoints": ["0px", "0px", "0.01px", "108.63px", "-76.41px", "64.73px", "-26.82px", "139.53px"], "startTimeMs": 1601, "endTimeMs": 2405, "easing": "linear"
-    }
-    ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
-  }
-  ;
-  animation:gwd-motion-path-1nk8-keys-x 0.804s linear 1.601s 1 normal forwards;
-  transform:translate3d(0px, 0px, 0px);
-}
-@keyframes gwd-motion-path-1nk8-keys-x {
-  0% {
-    transform: translate3d(0px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.589, -0.0004, 0.7062, 0.6429);
-  }
-  70% {
-    transform: translate3d(-42.8px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3102, -0.267, 0.8519, 0.8093);
-  }
-  100% {
-    transform: translate3d(-26.82px, 0px, 0px);
-  }
-}
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-1nk8-anim-y {
-  animation: gwd-motion-path-1nk8-keys-y 0.804s linear 1.601s 1 normal forwards;
-  transform: translate3d(0px, 0px, 0px);
-}
-@keyframes gwd-motion-path-1nk8-keys-y {
-  0% {
-    transform: translate3d(0px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3163, 0.3571, 0.6108, 0.7125);
-  }
-  65% {
-    transform: translate3d(0px, 89.75px, 0px);
-    animation-timing-function: cubic-bezier(0.3354, 0.3299, 0.6416, 0.6871);
-  }
-  100% {
-    transform: translate3d(0px, 139.53px, 0px);
-  }
-}
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-1nd3-anim-x {
-  --gwd-motion-path: {
-    "tangentFollowing": false, "sections": [ {
-      "controlPoints": ["0px", "0px", "-20.96px", "45.41px", "57.09px", "30.78px", "18.88px", "137.29px"], "startTimeMs": 1603, "endTimeMs": 2403, "easing": "linear"
-    }
-    ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
-  }
-  ;
-  animation:gwd-motion-path-1nd3-keys-x 0.8s linear 1.603s 1 normal forwards;
-  transform:translate3d(0px, 0px, 0px);
-}
-@keyframes gwd-motion-path-1nd3-keys-x {
-  0% {
-    transform: translate3d(0px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.319, -1.0138, 0.3007, 2.9988);
-  }
-  100% {
-    transform: translate3d(18.88px, 0px, 0px);
-  }
-}
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-1nd3-anim-y {
-  animation: gwd-motion-path-1nd3-keys-y 0.8s linear 1.603s 1 normal forwards;
-  transform: translate3d(0px, 0px, 0px);
-}
-@keyframes gwd-motion-path-1nd3-keys-y {
-  0% {
-    transform: translate3d(0px, 0px, 0px);
-  }
-  20% {
-    transform: translate3d(0px, 28.18px, 0px);
-    animation-timing-function: cubic-bezier(0.3792, 0.2914, 0.6635, 0.6663);
-  }
-  100% {
-    transform: translate3d(0px, 137.29px, 0px);
-  }
-}
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-cxag-anim-x {
-  --gwd-motion-path: {
-    "tangentFollowing": false, "sections": [ {
-      "controlPoints": ["0px", "0px", "12.41px", "55.23px", "-48.56px", "94.25px", "-10.35px", "150.35px"], "startTimeMs": 1605, "endTimeMs": 2399, "easing": "linear"
-    }
-    ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
-  }
-  ;
-  animation:gwd-motion-path-cxag-keys-x 0.794s linear 1.605s 1 normal forwards;
-  transform:translate3d(0px, 0px, 0px);
-}
-@keyframes gwd-motion-path-cxag-keys-x {
-  0% {
-    transform: translate3d(0px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3811, -0.7602, 0.6327, 3.0084);
-  }
-  95% {
-    transform: translate3d(-14.48px, 0px, 0px);
-  }
-  100% {
-    transform: translate3d(-10.35px, 0px, 0px);
-  }
-}
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-cxag-anim-y {
-  animation: gwd-motion-path-cxag-keys-y 0.794s linear 1.605s 1 normal forwards;
-  transform: translate3d(0px, 0px, 0px);
-}
-@keyframes gwd-motion-path-cxag-keys-y {
-  0% {
-    transform: translate3d(0px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3262, 0.3412, 0.6721, 0.6623);
-  }
-  90% {
-    transform: translate3d(0px, 136.64px, 0px);
-  }
-  100% {
-    transform: translate3d(0px, 150.35px, 0px);
-  }
-}
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-1v31-anim-x {
-  --gwd-motion-path: {
-    "tangentFollowing": false, "sections": [ {
-      "controlPoints": ["-170.24px", "-116.26px", "-143.41px", "-72.02px", "-234.46px", "-58.2px", "-134.46px", "14.97px"], "startTimeMs": 1605, "endTimeMs": 2402, "easing": "linear"
-    }
-    ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
-  }
-  ;
-  animation:gwd-motion-path-1v31-keys-x 0.797s linear 1.605s 1 normal forwards;
-  transform:translate3d(-170.24px, 0px, 0px);
-}
-@keyframes gwd-motion-path-1v31-keys-x {
-  0% {
-    transform: translate3d(-170.24px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3763, -2.6907, 0.5829, 3.6348);
-  }
-  60% {
-    transform: translate3d(-177.71px, 0px, 0px);
-    animation-timing-function: cubic-bezier(0.3799, 0.2722, 0.6896, 0.6526);
-  }
-  100% {
-    transform: translate3d(-134.46px, 0px, 0px);
-  }
-}
-.gwd-play-animation [data-gwd-group="flowerseff"] .gwd-motion-path-1v31-anim-y {
-  animation: gwd-motion-path-1v31-keys-y 0.797s linear 1.605s 1 normal forwards;
-  transform: translate3d(0px, -116.26px, 0px);
-}
-@keyframes gwd-motion-path-1v31-keys-y {
-  0% {
-    transform: translate3d(0px, -116.26px, 0px);
-    animation-timing-function: cubic-bezier(0.3351, 0.3329, 0.6509, 0.6787);
-  }
-  37.5% {
-    transform: translate3d(0px, -62.27px, 0px);
-    animation-timing-function: cubic-bezier(0.2977, 0.3811, 0.6, 0.7182);
-  }
-  100% {
-    transform: translate3d(0px, 14.97px, 0px);
+    transform: translate3d(0px, 31.09px, 0px);
   }
 }
 [data-gwd-motion-path-node] {
